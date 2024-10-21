@@ -1,4 +1,4 @@
-[![MasterHead](https://www.herzing.edu/sites/default/files/styles/fp_960_480/public/images/blog/data_analytics.png.webp?itok=k4_dWR_5)]
+![MasterHead](https://www.herzing.edu/sites/default/files/styles/fp_960_480/public/images/blog/data_analytics.png.webp?itok=k4_dWR_5)
 <h1 align="center">Hi 👋, I'm Deepak Prasad</h1>
 <h3 align="center">Expert in Data Analytics and Business Intelligence with extensive proficiency in tools and technologies like SQL Server, MySQL, and Transact-SQL for robust database management and querying. Adept at building insightful and interactive dashboards using Power BI Desktop, Power BI Service, and Tableau to drive data-driven decision-making. Skilled in Data Modelling, ETL, and Data Wrangling, ensuring seamless data flow and integrity across systems. Expertise in DAX, Power Query, and Advanced Excel empowers streamlined reporting and sophisticated data analysis. Committed to delivering actionable insights through comprehensive Data Visualization and Data Cleaning techniques, transforming raw data into valuable business intelligence.</h3>
 
